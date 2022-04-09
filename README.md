@@ -1,2 +1,1 @@
-# bitcoin
-I... am... hacking... bitcoin, and I have every right to do so because There is an MIT License in the original but not in this one...
+
